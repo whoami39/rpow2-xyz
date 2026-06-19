@@ -1,0 +1,21 @@
+{
+  "name": "rpow2-www",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "www.rpow2.xyz — community ecosystem landing page (React + Vite, statically deployed to GitHub Pages)",
+  "packageManager": "pnpm@9.15.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}
